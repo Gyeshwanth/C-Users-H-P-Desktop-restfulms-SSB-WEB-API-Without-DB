@@ -1,0 +1,9 @@
+com\test\execption\SSNExecptionHandle.class
+com\test\service\CitizenServiceImpl.class
+com\test\binding\CitizenRepsone.class
+com\test\execption\CitizenDetailsNotFound.class
+com\test\service\CitizenService.class
+com\test\execption\ApiInfo.class
+com\test\rest\CitizenController.class
+com\test\entity\CitizenReq.class
+com\test\SsbWebApiApplication.class
